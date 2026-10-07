@@ -1,1 +1,6 @@
-# cpan212-project-group-12
+# Task Tracker
+
+## Group 12
+
+### Members:
+James Del Pilar (@jamesdelpilar)
