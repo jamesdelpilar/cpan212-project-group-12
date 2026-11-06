@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/jamesdelpilar/cpan212-project-group-12/issues"
   },
-  "homepage": "https://github.com/jamesdelpilar/cpan212-project-group-12#readme"
+  "homepage": "https://github.com/jamesdelpilar/cpan212-project-group-12#readme",
+  "dependencies": {
+    "picocolors": "^1.1.1"
+  }
 }
