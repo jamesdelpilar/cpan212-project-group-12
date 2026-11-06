@@ -1,0 +1,1 @@
+console.log(process.env.PORT, process.env.API_KEY);
