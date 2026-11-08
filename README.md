@@ -17,8 +17,8 @@ npm run dev
 
 
 ## Dependencies
-Express 5.3.0
-Picocolors 1.1.1
+- Express 5.3.0
+- Picocolors 1.1.1
 
 ## AI Use
 No AI tools used.
