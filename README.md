@@ -2,18 +2,18 @@
 
 ## Group 12
 
-What the project is, in a sentence or two.
+Task Tracker is an app that helps individuals or groups of people track their progress for a specific project with X amount of tasks/to-do "cards". The problem that task tracker solves is listing all the tasks that needs to be done and organizes them in a simplified way (e.g., To-Do, In-Progress, Done, etc.). Creating the ability of "writing" tasks allows the people involved in the project to quickly glance on the tasks and immediately work on the task without having to communicate with other members of the team.
 
 ## How to run it: 
-Copy .env.example to .env (Port # defaults to 4000, feel free to change it)
-There are scripts set in the package.json for src/server.js
-"Command prompts" set for "start" and "dev"
+Copy .env.example to .env (Port # defaults to 4000, feel free to change it) <br>
+There are scripts set in the package.json for src/server.js <br>
+"Command prompts" set for "start" and "dev" <br>
 
-To start server:
-npm start
+To start server: <br>
+npm start <br>
 
-To run server:
-npm run dev
+To run server: <br>
+npm run dev <br>
 
 
 ## Dependencies
